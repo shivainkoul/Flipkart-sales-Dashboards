@@ -20,7 +20,7 @@ A Power BI dashboard for analyzing Flipkart sales data. It provides insights int
 
 <H2>4. Data Source</H2>
 
-Source: Flipkart Sales Dataset  
+Source: Kaggle.com  
 Includes:
 
 • Order ID  
