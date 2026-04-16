@@ -53,21 +53,22 @@ Raw sales data makes it difficult to quickly identify trends, top categories, pr
 📌 KPIs  
 • Total Sales, Profit, Orders, Quantity, Avg Order Value  
 
-<br>📈 Sales Trend  
+📈 Sales Trend  
 • Monthly / yearly trends  
-<br>🏷️ Category Analysis  
+
+🏷️ Category Analysis  
 • Sales by product category  
 
-<br>🌍 Regional Analysis  
+🌍 Regional Analysis  
 • Sales by region/state  
 
-<br>👥 Customer Segments  
+👥 Customer Segments  
 • Sales by segment  
 
-<br>💰 Profit Analysis  
+💰 Profit Analysis  
 • Sales vs profit comparison  
 
-<br>🎛️ Filters  
+🎛️ Filters  
 • Date, Category, Region, Segment  
 
 
