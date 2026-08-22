@@ -1,7 +1,7 @@
 <H1>FLIPKART DASHBOARD</H1>
 <H2>1. Project Title</H2>
 
-🛍️ Flipkart Sales Dashboard
+ Flipkart Sales Dashboard
 
 
 <H2>2. Short Description</H2>
@@ -11,11 +11,11 @@ A Power BI dashboard for analyzing Flipkart sales data. It provides insights int
 
 <H2>3. Tech Stack</H2>
 
-• 📊 Power BI Desktop  
-• 📂 Power Query  
-• 🧠 DAX  
-• 🔗 Data Modeling  
-• 📁 .pbix / .pbit / .png  
+•  Power BI Desktop  
+•  Power Query  
+•  DAX  
+•  Data Modeling  
+•  .pbix / .pbit / .png  
 
 
 <H2>4. Data Source</H2>
@@ -34,12 +34,12 @@ Includes:
 
 <H2>5. Features / Highlights</H2>
 
-🔎 Business Problem
+Business Problem
 
 Raw sales data makes it difficult to quickly identify trends, top categories, profitable segments, and regional performance.
 
 
-<H2>🎯 Goal of the Dashboard</H2>
+<H2> Goal of the Dashboard</H2>
 
 • Track sales and profit  
 • Identify top products and regions  
@@ -48,31 +48,31 @@ Raw sales data makes it difficult to quickly identify trends, top categories, pr
 • Support data-driven decisions  
 
 
-<H2>📊 Key Visuals</H2>
+<H2> Key Visuals</H2>
 
-📌 KPIs  
+ KPIs  
 • Total Sales, Profit, Orders, Quantity, Avg Order Value  
 
-📈 Sales Trend  
+Sales Trend  
 • Monthly / yearly trends  
 
-🏷️ Category Analysis  
+ Category Analysis  
 • Sales by product category  
 
-🌍 Regional Analysis  
+ Regional Analysis  
 • Sales by region/state  
 
-👥 Customer Segments  
+ Customer Segments  
 • Sales by segment  
 
-💰 Profit Analysis  
+ Profit Analysis  
 • Sales vs profit comparison  
 
-🎛️ Filters  
+Filters  
 • Date, Category, Region, Segment  
 
 
-<H2>🚀 Business Impact</H2>
+<H2>Business Impact</H2>
 
 • Identifies high-performing areas  
 • Supports targeted marketing  
