@@ -32,14 +32,14 @@ Includes:
 • Payment Mode  
 
 
-<H2>5. Features / Highlights</H2>
+<H2>5. Highlights</H2>
 
-Business Problem
+i. Business Problem
 
 Raw sales data makes it difficult to quickly identify trends, top categories, profitable segments, and regional performance.
 
 
-<H2> Goal of the Dashboard</H2>
+ii. Goal of the Dashboard
 
 • Track sales and profit  
 • Identify top products and regions  
@@ -48,31 +48,31 @@ Raw sales data makes it difficult to quickly identify trends, top categories, pr
 • Support data-driven decisions  
 
 
-<H2> Key Visuals</H2>
+iii. Key Visuals
 
- KPIs  
+**KPIs**  
 • Total Sales, Profit, Orders, Quantity, Avg Order Value  
 
-Sales Trend  
+**Sales Trend**  
 • Monthly / yearly trends  
 
- Category Analysis  
+ **Category Analysis**  
 • Sales by product category  
 
- Regional Analysis  
+**Regional Analysis** <br>
 • Sales by region/state  
 
- Customer Segments  
+ **Customer Segments**<br>
 • Sales by segment  
 
- Profit Analysis  
+ **Profit Analysis**  
 • Sales vs profit comparison  
 
-Filters  
+**Filters** <br>
 • Date, Category, Region, Segment  
 
 
-<H2>Business Impact</H2>
+iv. Business Impact
 
 • Identifies high-performing areas  
 • Supports targeted marketing  
